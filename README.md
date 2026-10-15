@@ -1,5 +1,9 @@
 # LiME ~ Linux Memory Extractor
 
+> [!NOTE]
+> This repository is a fork of [LiME ~ Linux Memory Extractor](https://github.com/jtsylve/LiME).
+> Please note that this is a forked version and may not reflect the latest upstream changes.
+
 A Loadable Kernel Module (LKM) for volatile memory
 acquisition from Linux and Linux-based devices, such as
 Android. LiME minimizes its interaction between user and
